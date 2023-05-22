@@ -13,7 +13,7 @@ _Keyword_ can be related to any topic for e.g. ***politics, sports, entertainmen
 
 **Snapshots:**
 
-![](/react/src/images/keyword.png)
+![](keyword.png)
 ![](/react/src/images/sentiment_score.png)
 ![](/react/src/images/words.png)
 ![](/react/src/images/bigrams.png)
